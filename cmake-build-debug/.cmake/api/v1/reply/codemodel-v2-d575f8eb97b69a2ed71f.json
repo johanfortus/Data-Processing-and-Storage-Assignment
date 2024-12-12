@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Data_Processing_and_Storage_Assignment",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Data_Processing_and_Storage_Assignment::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Data_Processing_and_Storage_Assignment-Debug-e4e082fed02608417ec6.json",
+					"name" : "Data_Processing_and_Storage_Assignment",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/johanfortus/CLionProjects/Data Processing and Storage Assignment/cmake-build-debug",
+		"source" : "/Users/johanfortus/CLionProjects/Data Processing and Storage Assignment"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

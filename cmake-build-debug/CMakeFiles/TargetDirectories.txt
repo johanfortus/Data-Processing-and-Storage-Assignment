@@ -1,0 +1,3 @@
+/Users/johanfortus/CLionProjects/Data Processing and Storage Assignment/cmake-build-debug/CMakeFiles/Data_Processing_and_Storage_Assignment.dir
+/Users/johanfortus/CLionProjects/Data Processing and Storage Assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/johanfortus/CLionProjects/Data Processing and Storage Assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
