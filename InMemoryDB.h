@@ -14,6 +14,7 @@ class InMemoryDB {
 public:
 
     unordered_map<string, int> database;
+    vector<pair<string, int>> currentTransaction;
 
     void begin_transaction();
 
